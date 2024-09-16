@@ -35,12 +35,12 @@ const Image = styled.img`
 
 const LandingPage = () => {
   return (
-    <LandingPageWrapper style={{ backgroundImage: `url(https://img.freepik.com/free-vector/pink-watercolor-banner_41066-1945.jpg?w=1380&t=st=1726351754~exp=1726352354~hmac=171e6e17d3b0147cd6281c6e224b6763aff152b84fd90b5ddf30ff6c8bceb2c7)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <LandingPageWrapper style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <Container>
         <Row>
           <Col lg={6}>
             <img
-              src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdnMGN2cnJvcWhkZ2dhcTFlM2dqZ2JhcnY2d3R2amJzd3kzYmQ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w8j2t9Rc28TSLavmt0/giphy.webp"
+              src="https://cdn.dribbble.com/users/6498639/screenshots/15141150/media/b306a0b1906db326d48d3f6921698a65.gif"
               alt="CleanEase"
               style={{
                 borderRadius: '10px', 

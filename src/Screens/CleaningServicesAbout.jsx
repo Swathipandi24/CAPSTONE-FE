@@ -4,10 +4,10 @@ import React from 'react';
 const CleaningServicesAbout = () => {
   return (
     <section className="py-3 py-md-5 py-xl-8">
-      <div className="container" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/pink-watercolor-banner_41066-1945.jpg?w=1380&t=st=1726351754~exp=1726352354~hmac=171e6e17d3b0147cd6281c6e224b6763aff152b84fd90b5ddf30ff6c8bceb2c7)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <div className="container" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
         <div className="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
           <div className="col-12 col-lg-6 col-xl-5 animate__animated animate__fadeInLeft">
-            <img className="img-fluid rounded mx-3" loading="lazy" src="https://img.freepik.com/free-vector/cleaning-service-concept-illustration_114360-9785.jpg?w=996&t=st=1726354708~exp=1726355308~hmac=8a5f8bf0c2cce2d44beb6b26525e974fb94b909c71df6629aae174c6daa1bd11" alt="Cleaning Services" />
+            <img className="img-fluid rounded mx-3" loading="lazy" src="https://t4.ftcdn.net/jpg/05/78/61/03/360_F_578610304_3AxU7UsNrKyxj0IlgukFpLgX3I9EftX4.jpg" alt="Cleaning Services" />
           </div>
           <div className="col-12 col-lg-6 col-xl-7 animate__animated animate__fadeInRight">
             <div className="row justify-content-xl-center">

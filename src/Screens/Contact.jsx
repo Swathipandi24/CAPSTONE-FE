@@ -47,7 +47,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="container mt-5" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/pink-watercolor-banner_41066-1945.jpg?w=1380&t=st=1726351754~exp=1726352354~hmac=171e6e17d3b0147cd6281c6e224b6763aff152b84fd90b5ddf30ff6c8bceb2c7)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <div className="container mt-5" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <h1 className="text-center animate__animated animate__slideInDown" style={{ color: 'red' }}>CONTACT</h1>
       <p className="text-center animate__animated animate__fadeIn" style={{ color: 'black' }}>Cleanease has been dedicated to delivering top-notch cleaning services for over 16 years. Our team takes pride in providing meticulous cleaning solutions for both residential and commercial properties. We frequently meet clients in person and are passionate about sharing our expertise at educational events on maintaining clean and healthy environments.</p>
 
